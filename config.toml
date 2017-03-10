@@ -4,7 +4,6 @@ baseurl = "http://resume.matthewvanderhoff.com/"
 languageCode = "en-us"
 title = "Matthew Vander Hoff Resume"
 theme = "hugo-orbit-theme"
-publishDir = "docs"
 
 # Do not build files for websites. Need them? Set to false
 disableRSS = true
